@@ -1,1 +1,3 @@
-alert("Welcome to Tetris!");
+$(document).ready(function() {
+  alert("Welcome to Tetris!");
+});
